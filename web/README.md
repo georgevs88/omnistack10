@@ -38,3 +38,10 @@ REACT:
 // Componente: Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação
 // Propriedade: Informações que o componente PAI passa para o componente FILHO
 // Estado: Informações mantidas pelo componente (lembrar: imutabilidade)
+
+
+para acessar o backend, acessar a pasta do mesmo e:
+yarn add cors
+
+para fazer as chamadas do backend, na pasta do frontend:
+yarn add axios
