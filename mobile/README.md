@@ -20,4 +20,16 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 yarn add react-navigation-stack
 yarn add @react-native-community/masked-view
 
-parei em 45:50
+Para instalar os mapas (documentacao do expo https://docs.expo.io/versions/latest/sdk/map-view/):
+expo install react-native-maps
+
+Para instalar a localização - geoposicionamento (documentacao do expo https://docs.expo.io/versions/latest/sdk/location/):
+expo install expo-location
+
+Para utilizar o WebView (documentacao do expo https://docs.expo.io/versions/latest/sdk/location/):
+expo install react-native-webview
+
+-----------------------
+
+Finalizado o front...
+yarn add axios
