@@ -33,3 +33,6 @@ expo install react-native-webview
 
 Finalizado o front...
 yarn add axios
+
+Parte 5 - FUNCIONALIDADES AVANÇADAS
+yarn add socket.io-client
